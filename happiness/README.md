@@ -1,4 +1,4 @@
-Narrative Insights from Happiness Data Analysis
+Narrative Insights from Happiness Data Analysis 
 Overview
 The dataset, 'happiness.csv', contains happiness-related data from various countries over the years, focusing on different factors such as GDP, social support, life expectancy, and perceptions of corruption. With 2,363 total data points from 165 unique countries, this dataset enables a comprehensive examination of factors influencing happiness across regions and time.
 
