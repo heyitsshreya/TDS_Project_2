@@ -1,4 +1,4 @@
-### Narrative Insights from Happiness Data Analysis
+### Narrative Insights from Happiness Data Analysis 
 
 #### Overview
 The dataset, 'happiness.csv', contains happiness-related data from various countries over the years, focusing on different factors such as GDP, social support, life expectancy, and perceptions of corruption. With 2,363 total data points from 165 unique countries, this dataset enables a comprehensive examination of factors influencing happiness across regions and time.
@@ -20,7 +20,7 @@ The dataset, 'happiness.csv', contains happiness-related data from various count
    - **Perceptions of Corruption**: Interestingly, high perceptions of corruption correlate negatively with the Life Ladder (-0.43), although it is less pronounced than other factors. It indicates that subjective views of governance impact overall life satisfaction.
 
 4. **Missing Values Analysis**:
-   - The dataset has several missing values, most notably in the ‘Healthy life expectancy at birth’ (63 missing), ‘Generosity’ (81 missing), and ‘Perceptions of corruption’ (125 missing). Handling these through imputation or removal of rows could influence correlation outcomes significantly.
+   - The dataset has several missing values, most notably in the â€˜Healthy life expectancy at birthâ€™ (63 missing), â€˜Generosityâ€™ (81 missing), and â€˜Perceptions of corruptionâ€™ (125 missing). Handling these through imputation or removal of rows could influence correlation outcomes significantly.
 
 #### Trends and Patterns
 - The significant correlations between GDP per capita, social support, and measures of wellbeing reinforce the notion that economic factors and social ties play a pivotal role in promoting happiness.
