@@ -9,7 +9,7 @@ import subprocess
 
 # Constants
 API_URL = "https://aiproxy.sanand.workers.dev/openai/v1/chat/completions"
-AIPROXY_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDUzNzVAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.7rXDto5TzajWEQEEQYJeScynPwPB1MSK1nXyTJ6hbRk"
+AIPROXY_TOKEN = "YOUR_AIPROXY_TOKEN"
 
 def check_dependencies():
     """Ensure required packages are installed."""
